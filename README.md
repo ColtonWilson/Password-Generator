@@ -27,7 +27,7 @@ N/A
 
 ## Usage
 
-This page can be viewed at https://coltonwilson.com/Password-Generator. 
+This page can be viewed at https://coltonwilson.com/Password-Generator/Develop/. 
 
 ## Credits
 
